@@ -4,10 +4,8 @@
     "label": "Student",
     "picture": "https://github.com/koalanik.png",
     "email": "koalanik@hawaii.edu",
-    "phone": "808-936-3850",
     "website": "https://koalanik.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
-    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "koalanik", "url": "http://github.com/koalanik" },
       { "network": "linkedin", "username": "koalanik", "url": "http://linkedin.com/in/koalanik" },
