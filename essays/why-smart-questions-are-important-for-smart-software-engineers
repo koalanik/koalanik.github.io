@@ -7,6 +7,7 @@ date: 2015-02-05
 published: true
 labels:
   - Software Engineering
+  - Computer Science
 ---
 
 ## Why Smart Questions Are Important for Smart Software Engineers
@@ -14,7 +15,7 @@ labels:
 One of the most valuable skills for a software engineer is the ability to communicate effectively, especially when seeking help. As Eric Raymond explains in his essay, How to Ask Questions the Smart Way, asking thoughtful, well-constructed questions is key to fostering collaboration and obtaining meaningful answers. To explore the importance of “smart” questions, I analyzed examples from Stack Overflow: one illustrating a clear and compelling question and another highlighting the pitfalls of poor communication.
 
 ## Example 1: A Smart Question
-A great example of a “smart” question is https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value. This question stands out due to its straightforward and effective framing.
+A great example of a “smart” question is [How do I sort a dictionary by value? (Stack Overflow)](https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value). This question stands out due to its straightforward and effective framing.
 The user explains their goal of sorting a dictionary by its values, provides an example dictionary, and clearly describes the desired result. This clarity makes it easy for others to understand the issue and offer helpful solutions.
 
 # Community Responses
