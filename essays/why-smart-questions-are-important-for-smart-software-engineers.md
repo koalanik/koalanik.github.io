@@ -18,12 +18,12 @@ One of the most valuable skills for a software engineer is the ability to commun
 A great example of a “smart” question is [How do I sort a dictionary by value? (Stack Overflow)](https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value). This question stands out due to its straightforward and effective framing.
 The user explains their goal of sorting a dictionary by its values, provides an example dictionary, and clearly describes the desired result. This clarity makes it easy for others to understand the issue and offer helpful solutions.
 
-# Community Responses
+#### Community Responses
 The responses reflect the quality of the question:
 The top answer concisely explains using Python’s sorted() function with a lambda as the key parameter alongside clear, working code.
 Other answers explore alternative methods, like using the operator module, and even discuss the performance trade-offs between solutions.
 
-# Why It Works
+#### Why It Works
 This question perfectly aligns with Raymond’s principles:
 Be precise and informative about your problem: The user clearly outlines what they’re trying to achieve.
 Use meaningful subject headers: The title immediately conveys the issue at hand.
@@ -40,20 +40,20 @@ A common question might look something like this:
 
 This hypothetical question lacks the necessary context for others to provide meaningful help. The user doesn’t include their code, explain what they’re trying to achieve, or describe any specific errors they encountered.
 
-# Community Responses
+#### Community Responses
 Predictably, the responses to questions like this are less constructive:
 Many replies ask for clarification or more information, such as, “What error are you getting?” or “Can you share your code?”
 
 Some responses may express frustration, which discourages further engagement.
 
-# Why It Fails
+#### Why It Fails
 This example breaks multiple principles from Raymond’s essay:
 Be precise and informative about your problem: Others can’t diagnose the issue without any details.
 Demonstrate that you did your homework: There’s no evidence of effort, making it seem like the user expects others to do the work for them.
 
 The result? A lot of wasted time for everyone involved, with little to no progress toward solving the problem.
 
-# Lessons Learned
+#### Lessons Learned
 Analyzing these examples has reinforced how essential clarity and effort are when seeking help:
 Clarity and Context Are Key: Providing specific details and examples helps others understand your problem and offer relevant solutions.
 Respect for the Community: Thoughtful questions show respect for the time and expertise of others, making them more likely to engage meaningfully.
