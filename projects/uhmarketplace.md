@@ -10,7 +10,7 @@ labels:
   - Supabase
   - TypeScript
 ---
-
+<img class="img-fluid" src="https://github.com/user-attachments/assets/c9211141-80c3-4716-8e58-5f97928cd962">
 UH Marketplace is a UH Manoa-exclusive online marketplace designed for students and faculty to buy, sell, and trade items like textbooks, furniture, electronics, clothes, and more. This app fosters sustainability, convenience, and campus connection by allowing only UH-verified users to post and explore listings.
 
 ##My Role
