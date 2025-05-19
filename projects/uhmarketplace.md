@@ -1,8 +1,7 @@
 ---
 layout: project
 type: project
-image: https://cdn.discordapp.com/attachments/1359375147357962472/1360070546015912046/raw.png?ex=682be0e7&is=682a8f67&hm=3b5e8e963702e17c2fa82183795b5b175de4c6fb2e312c19c515d89a07c6589e&
-title: "UH Marketplace"
+image: 
 date: 2025
 published: True
 labels:
