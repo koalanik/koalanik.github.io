@@ -26,4 +26,4 @@ During this project I gained experiecne in:
 
 ##Here is a link to the github page for source code
  
-Source: <a href="[https://github.com/theVacay/vacay](https://uh-marketplace.github.io/)"></a>
+Source: <a href="[https://github.com/theVacay/vacay](https://uh-marketplace.github.io/)">UH Marketplace</a>
