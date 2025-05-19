@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: https://github.com/user-attachments/assets/7eab731d-2739-4395-a54c-4a387c7aa2c3
 date: 2025
 published: True
 labels:
