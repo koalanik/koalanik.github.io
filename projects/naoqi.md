@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://cdn.discordapp.com/attachments/1202425735101292605/1232221099354226708/IMG_6795.jpg?ex=68409493&is=683f4313&hm=cce058a3f1bf0c59fe2ca85cafe1f3ff32f3b4dd6afb5763ca27df1a273ab4a2&
+image: https://cdn.discordapp.com/attachments/1202425735101292605/1232221099354226708/IMG_6795.jpg?ex=68409493&is=683f4313&hm=cce058a3f1bf0c59fe2ca85cafe1f3ff32f3b4dd6afb5763ca27df1a273ab4a2
 date: Spring 2023- Fall 2024
 published: True
 labels:
@@ -27,20 +27,14 @@ The third semester I ditched ROS and turned my attention to hard coding the robo
 
 <img src="https://cdn.discordapp.com/attachments/1202425735101292605/1232221098104586292/IMG_6797.jpg?ex=68409493&is=683f4313&hm=8b7c94f668a30548999460275d507ab078c5e26f73425175759ed45b54c01b4f&" width="150"> <img src="https://cdn.discordapp.com/attachments/1202425735101292605/1232221099354226708/IMG_6795.jpg?ex=68409493&is=683f4313&hm=cce058a3f1bf0c59fe2ca85cafe1f3ff32f3b4dd6afb5763ca27df1a273ab4a2" width="150" />
 
-By the last semester the robots were old and their batteries were dying which only let me work on them for 30 minunte integrals max. Due to that I decided to use 3D simulators for my project. Since I had worked on just researching the robots capabilities for the previous semesters I aimed to have the robot do something functional for the last semester so people could use it if needed. My goal was to have the robot be able to walk upstairs with people and to carry some books for the person. Webots had an already built model and library for the NAO robots that I was using which made it easier for me to work with. By the end of the semester I was able to get it to get up one very small step but realized that the robot is too short to get up a full human step.
+By the last semester the robots were old and their batteries were dying which only let me work on them for **30-minute intervals** max. Due to that I decided to use 3D simulators for my project. Since I had worked on just researching the robots capabilities for the previous semesters I aimed to have the robot do something functional for the last semester so people could use it if needed. My goal was to have the robot be able to walk upstairs with people and to carry some books for the person. Webots had an already built model and library for the NAO robots that I was using which made it easier for me to work with. By the end of the semester I was able to get it to get up one very small step but realized that the robot is too short to get up a full human step.
 
 <img src="https://github.com/user-attachments/assets/2675dccf-3cba-41eb-b16b-62e7d2b8c6ee" height="100" /> <img src="https://github.com/user-attachments/assets/67050a06-11a7-4eae-8133-9c47a51a1e5f" height="100" /> <img src="https://github.com/user-attachments/assets/2ecf89f5-6f20-4176-a56e-0d0830f05af7" height="100" />
 
 
-## Here is the posters for my research
+## Posters for my research
 
-<a href="https://docs.google.com/presentation/d/1S4r1ImOhUdbDWNm5hLSE1o6mOkvkc25FTxYArGLyu-Y/edit?slide=id.g2283172fbcd_2_75#slide=id.g2283172fbcd_2_75"><i class=" large github icon "></i>Machine Learning with the NAO Robots Using Choregraphe</a>
-
-<a href="https://docs.google.com/presentation/d/121ZrGC63Im9KoD0zihGYrH7ilDqcTD4ormTH2bxylYE/edit?slide=id.g2283172fbcd_2_75#slide=id.g2283172fbcd_2_75"><i class=" large github icon "></i>Going Open Source With NAO Robots</a>
-
-<a href="https://docs.google.com/presentation/d/1U-jAXmELo9QSKHWJnQ47tVevsOJCx661-uVyw04yJsQ/edit?slide=id.p#slide=id.p"><i class=" large github icon "></i>Coding NAO Robots using programming language Python
-</a>
-
-<a href="https://docs.google.com/presentation/d/120B-VfjtzOTD6FpQGsh0_C8U2CWKpRZVdBo6hBVwBtI/edit?slide=id.g2283172fbcd_2_75#slide=id.g2283172fbcd_2_75"><i class="large github icon "></i>NAO in Simulation!
-</a> 
-
+- [Machine Learning with the NAO Robots Using Choregraphe](https://docs.google.com/presentation/d/1S4r1ImOhUdbDWNm5hLSE1o6mOkvkc25FTxYArGLyu-Y/edit?slide=id.g2283172fbcd_2_75)
+- [Going Open Source With NAO Robots](https://docs.google.com/presentation/d/121ZrGC63Im9KoD0zihGYrH7ilDqcTD4ormTH2bxylYE/edit?slide=id.g2283172fbcd_2_75)
+- [Coding NAO Robots using Python](https://docs.google.com/presentation/d/1U-jAXmELo9QSKHWJnQ47tVevsOJCx661-uVyw04yJsQ/edit?slide=id.p)
+- [NAO in Simulation!](https://docs.google.com/presentation/d/120B-VfjtzOTD6FpQGsh0_C8U2CWKpRZVdBo6hBVwBtI/edit?slide=id.g2283172fbcd_2_75)
