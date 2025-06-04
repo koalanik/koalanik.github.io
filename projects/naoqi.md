@@ -1,8 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/user-attachments/assets/b6b69696-74d9-4f1e-870b-df4fa9236381
-
+image: https://github.com/user-attachments/assets/bac96a4e-e814-4ee1-a6df-a1376d3f2f2b
 date: Spring 2023- Fall 2024
 published: True
 labels:
