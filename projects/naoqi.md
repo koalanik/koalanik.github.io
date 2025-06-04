@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: https://cdn.discordapp.com/attachments/1202425735101292605/1232221099354226708/IMG_6795.jpg?ex=68409493&is=683f4313&hm=cce058a3f1bf0c59fe2ca85cafe1f3ff32f3b4dd6afb5763ca27df1a273ab4a2
+image: https://github.com/user-attachments/assets/b6b69696-74d9-4f1e-870b-df4fa9236381
+
 date: Spring 2023- Fall 2024
 published: True
 labels:
