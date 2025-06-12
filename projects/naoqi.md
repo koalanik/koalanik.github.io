@@ -18,8 +18,8 @@ labels:
 ## What I did
 Over the course of 4 semesters I was a part of a research project exploring the capabilities and usefulness of robots. Specifically the Nao robots. In the first semester I learned that the robots had their own software application called "Choreograph." This application had pre-programmed boxes that you could drag and drop to have the robot do things. I used Choreograph to test the hearing, eyesight, object learning, and joint movement of the NAO bots and successfully got the robot to hear and respond to me as well as to throw a ball.
 
-<img width="250" height="100" alt="Choreograph" src="https://github.com/user-attachments/assets/147f2952-4b21-4482-b178-9b87fdf5c885" />
-<img width ="250" height="100" src="https://github.com/user-attachments/assets/17d6bc93-8905-44f4-adc6-2cfe60d82802" />
+<img class="img-fluid" src="../img/Choreograph.png">
+<img class="img-fluid" src="../img/Boxes.png">
 
 For the next semester I wanted to focus more on programming the robot myself instead of using choreograph so that I could have the robot perform more complex tasks. It was then that I learned about ROS and ROS2. ROS is an operating system with libraries that are meant to help build robot applications. During that semester I spent the first quarter of my time getting ROS to successfully run on my windows laptop. When I realized that ROS was more compatible with a linux operating system I used virtual machines to run linux on my laptop. This semester was particularly difficult as ROS was no longer supported and ROS2 was just born which meant that people were constantly working on ROS2 and dependencies were updated constantly. I never got it to work and ran into so many issues, not just with ROS but also with the virtual machine running out of space all the time.
 
