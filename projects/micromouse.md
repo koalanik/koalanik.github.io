@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
-published: false
+image:
+title: "Fish Game"
+date: Spring 2024
+published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Java
+  - GitKraken
+  - GitHub
+summary: "A fishing simulator game for ICS 211"
 ---
 
 <div class="text-center p-4">
