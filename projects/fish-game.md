@@ -4,7 +4,7 @@ type: project
 image:
 title: "Fish Game"
 date: Spring 2024
-published: true
+published: false
 labels:
   - Java
   - GitKraken
