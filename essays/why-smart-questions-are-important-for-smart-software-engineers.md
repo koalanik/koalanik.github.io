@@ -4,7 +4,7 @@ type: essay
 title: "Why Smart Questions Are Important for Smart Software Engineers"
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-13
-published: true
+published: false
 labels:
   - Software Engineering
   - Computer Science
