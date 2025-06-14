@@ -5,7 +5,7 @@ title: "Reflect on Your Use of AI in ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-12
 published: false
-labels:
+labels:  
   - Software Engineering
   - Learning
   - Computer Science
