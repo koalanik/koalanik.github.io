@@ -1,3 +1,18 @@
+---
+layout: essay
+type: essay
+title: "Reflect on Design Patterns"
+# All dates must be YYYY-MM-DD format!
+date: 2025-07-24
+published: true
+labels:
+  - Software Engineering
+  - Essay
+  - Computer Science
+  - Design
+---
+
+
 # Reflecting on Design Patterns
 
 Design patterns are often considered the "toolkit" of object-oriented programming. Imagine you’re building a complex structure—like a house. You could attempt to build it from scratch, figuring out each detail as you go, but more often than not, the wisdom of architects and builders guides your process. In programming, design patterns serve as that wisdom, offering time-tested solutions to common problems that arise when building software. These patterns provide a way to structure your code to be more efficient, maintainable, and scalable, similar to how an architect uses blueprints and standard construction techniques to ensure a house is well-built and reliable.
