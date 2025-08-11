@@ -22,7 +22,7 @@ For these, I leaned on AI like ChatGPT to help me understand what the prompt was
 As the WODs became longer and more complex, I increasingly depended on AI. I often asked ChatGPT for examples or even had it write code snippets like, “Can you write a function that filters objects using <database>?” I felt like I didn’t have enough time to think through and write code on my own, and AI became the only way I could complete the tasks in time.
 
 ### 3. In-class WODs:
-Similar to the Practice WODs, I relied on AI to help me move faster. I would copy error messages into ChatGPT and ask, “What does this error mean and how do I fix it?” It felt like the only way to keep up, even if I wasn’t fully learning the concept.
+Similar to the Practice WODs, I relied on AI to help me move faster. I would copy error messages into ChatGPT and ask, “What does this error mean and how do I fix it?” It felt like the only way to keep up, even if I wasn’t fully learning the concept. Also, there were no "in-class WODs" since this class was distance learning.
 
 ### 4. Essays:
 For written assignments, I turned to Grammarly more than ChatGPT. It was mainly for grammar checks, sentence restructuring, and clarity. I never used AI to write entire essays for me — I simply didn't need the help.
@@ -31,10 +31,10 @@ For written assignments, I turned to Grammarly more than ChatGPT. It was mainly 
 AI was incredibly helpful here. I often used prompts like, “This error is showing up when I deploy to Vercel. Is it my code or a different file's issue?” or “How do I use this component in my file so that I can create this?” ChatGPT helped me troubleshoot and understand how deployment with Vercel works, something that wasn’t clearly defined for me.
 
 ### 6. Learning a Concept / Tutorial:
-Earlier in the semester, I used ChatGPT more like a mentor. I'd ask things like “What’s the difference between state and props in React?” It was more helpful as a tutor than a code generator during this phase.
+Earlier in the summer, I used ChatGPT more like a mentor. I'd ask things like “What’s the difference between state and props in React?” It was more helpful as a tutor than a code generator during this phase.
 
 ### 7. Answering a Question in Class or on Discord:
-I didn’t use AI for this. I rarely participated in Discord unless it was for communication, and the in-class questions didn’t usually require factual answers—more often they were opinion or logic-based, so AI didn’t seem necessary.
+I didn’t use AI for this. I rarely participated in Discord unless it was for communication, and the in-class questions didn’t exist, so AI didn’t seem necessary.
 
 ### 9. Coding Example (e.g. using Underscore’s .pluck):
 Early on, I asked ChatGPT things like, “Can you give me an example using <given code>?” At the time, I wanted to understand the syntax and logic, so it was useful for learning by example.
