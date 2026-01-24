@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/user-attachments/assets/bac96a4e-e814-4ee1-a6df-a1376d3f2f2b
+image: img/NAO.png
 date: Spring 2023- Fall 2024
 published: True
 labels:
