@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: img/OF.png
 title: "Fish Game"
 date: Spring 2024
 published: true
