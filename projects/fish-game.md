@@ -18,4 +18,6 @@ If a fish is caught, the player is informed of the fish’s size, weight, diet, 
 
 If the fish is illegal and the player chooses to keep it, they risk being fined by the police department. Alternatively, they may attempt to bribe the police to avoid the penalty. If their bribe fails the player gets a larger fine.
 
+<img class="img-fluid" src=img/OF-poster.png>
+
 Each player gets two turns per month. After 12 months, the player with the most fish, the largest fish, and the heaviest total catch wins the game.
